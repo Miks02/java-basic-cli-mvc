@@ -1,0 +1,223 @@
+May 05, 2025 4:59:55 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+
+May 05, 2025 4:59:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+
+May 05, 2025 4:59:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+
+May 05, 2025 4:59:56 PM repository.DataBookRepository getAllBooks
+INFO:
+Fetching completed!
+
+May 05, 2025 4:59:56 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+
+May 05, 2025 4:59:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+
+May 05, 2025 4:59:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+
+May 05, 2025 4:59:56 PM repository.DataBookRepository getAllBooks
+
+INFO: 
+Fetching completed!
+May 05, 2025 4:59:56 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 4:59:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 4:59:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 4:59:56 PM repository.DataBookRepository getAllBooks
+
+INFO: 
+Fetching completed!
+May 05, 2025 4:59:56 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 4:59:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 4:59:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 4:59:56 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:33 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:33 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:33 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:33 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:33 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:33 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:33 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:33 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:33 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:53 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:53 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:53 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:53 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:53 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:53 PM repository.FileBookRepository updateFile
+INFO: File has been updated
+May 05, 2025 5:04:53 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:53 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:56 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:56 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:56 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:04:56 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:04:56 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:04:56 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:05:00 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:05:00 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:05:00 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:05:00 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:05:00 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:05:00 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:05:00 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:05:00 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:05:03 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:05:03 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:05:03 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+May 05, 2025 5:05:03 PM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+May 05, 2025 5:05:03 PM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+May 05, 2025 5:05:03 PM repository.FileBookRepository updateFile
+INFO: File has been updated
+May 05, 2025 5:05:03 PM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+May 05, 2025 5:05:03 PM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+Jul 07, 2025 8:19:47 AM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+Jul 07, 2025 8:19:47 AM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+Jul 07, 2025 8:19:47 AM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+Jul 07, 2025 8:19:47 AM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+Jul 07, 2025 8:19:47 AM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+Jul 07, 2025 8:20:07 AM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+Jul 07, 2025 8:20:07 AM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+Jul 07, 2025 8:20:07 AM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+Jul 07, 2025 8:20:07 AM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
+Jul 07, 2025 8:20:07 AM repository.SqlBookRepository beginTransaction
+INFO: Transaction begun successfully!
+Jul 07, 2025 8:20:07 AM repository.SqlBookRepository commitTransaction
+INFO: *Transaction commited successfully!*
+Jul 07, 2025 8:20:07 AM repository.SqlBookRepository closeConnection
+INFO: Connection closed!
+Jul 07, 2025 8:20:07 AM repository.DataBookRepository getAllBooks
+INFO: 
+Fetching completed!
